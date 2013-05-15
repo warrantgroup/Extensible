@@ -3,5 +3,5 @@
     "config": {
         "bin-dir": "src"
     }
-    "target-dir": "/Ingot/PortalBundle/Resources/public/vendors"
+    "target-dir": "/ingot/PortalBundle/Resources/public/vendors"
 }

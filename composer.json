@@ -2,6 +2,6 @@
     "name": "warrantgroup/Extensible",
     "config": {
         "bin-dir": "src"
-    }
+    },
     "target-dir": "/ingot/PortalBundle/Resources/public/vendors"
 }

@@ -4,6 +4,6 @@
         "installer-paths": {
             "src/Ingot/PortalBundle/Resources/public/vendors": ["vendor/package"]
         }
-    }
+    },
     "target-dir": "/"
 }

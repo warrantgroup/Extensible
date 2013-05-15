@@ -1,7 +1,9 @@
 {
     "name": "warrantgroup/Extensible",
-    "config": {
-        "bin-dir": "src"
-    },
+        "extra": {
+        "installer-paths": {
+            "src/Ingot/PortalBundle/Resources/public/vendors": ["vendor/package"]
+        }
+    }
     "target-dir": "/"
 }

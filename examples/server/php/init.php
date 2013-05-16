@@ -17,6 +17,6 @@
     // The db connection must be manually configured on first use -- see config-template.php for details.
     // The actual config.php is included in .gitignore and is not tracked in source control.
     require(dirname(__FILE__).'/config.php');
-    require(dirname(__FILE__).'/db.php');
+    require(dirname(__FILE__) . '/db.php');
     
     $db = new Database();

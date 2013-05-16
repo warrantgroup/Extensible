@@ -1,3 +1,9 @@
+/*!
+ * Extensible 1.6.0-b1
+ * Copyright(c) 2010-2012 Extensible, LLC
+ * licensing@ext.ensible.com
+ * http://ext.ensible.com
+ */
 /**
  * @class Extensible.calendar.dd.StatusProxy
  * A specialized drag proxy that supports a drop status icon, {@link Ext.Layer} styles and auto-repair. It also

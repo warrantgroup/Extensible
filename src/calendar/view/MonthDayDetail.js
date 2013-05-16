@@ -1,3 +1,9 @@
+/*!
+ * Extensible 1.6.0-b1
+ * Copyright(c) 2010-2012 Extensible, LLC
+ * licensing@ext.ensible.com
+ * http://ext.ensible.com
+ */
 /*
  * This is the view used internally by the panel that displays overflow events in the
  * month view. Anytime a day cell cannot display all of its events, it automatically displays

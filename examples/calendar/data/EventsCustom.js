@@ -1,3 +1,9 @@
+/*!
+ * Extensible 1.6.0-b1
+ * Copyright(c) 2010-2012 Extensible, LLC
+ * licensing@ext.ensible.com
+ * http://ext.ensible.com
+ */
 Ext.define('Extensible.example.calendar.data.EventsCustom', {
     constructor: function() {
         var today = Ext.Date.clearTime(new Date),

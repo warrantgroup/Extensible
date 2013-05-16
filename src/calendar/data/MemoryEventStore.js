@@ -1,3 +1,9 @@
+/*!
+ * Extensible 1.6.0-b1
+ * Copyright(c) 2010-2012 Extensible, LLC
+ * licensing@ext.ensible.com
+ * http://ext.ensible.com
+ */
 /*
  * This is a simple in-memory store implementation that is ONLY intended for use with
  * calendar samples running locally in the browser with no external data source. Under

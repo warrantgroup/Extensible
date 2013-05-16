@@ -12,8 +12,8 @@
     date_default_timezone_set('UTC');
     
     require(dirname(__FILE__).'/config.php');
-    require(dirname(__FILE__).'/db.php');
-    require(dirname(__FILE__).'/pretty-json.php');
+    require(dirname(__FILE__) . '/db.php');
+    require(dirname(__FILE__) . '/pretty-json.php');
     
     $db = new Database();
     

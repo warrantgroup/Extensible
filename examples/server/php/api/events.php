@@ -1,6 +1,6 @@
 <?php
-    require(dirname(__FILE__).'/../init.php');
-    require(dirname(__FILE__).'/../pretty-json.php');
+    require(dirname(__FILE__) . '/../init.php');
+    require(dirname(__FILE__) . '/../pretty-json.php');
     
     $table = 'events';
     

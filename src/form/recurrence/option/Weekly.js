@@ -1,3 +1,9 @@
+/*!
+ * Extensible 1.6.0-b1
+ * Copyright(c) 2010-2012 Extensible, LLC
+ * licensing@ext.ensible.com
+ * http://ext.ensible.com
+ */
 Ext.define('Extensible.form.recurrence.option.Weekly', {
     extend: 'Extensible.form.recurrence.AbstractOption',
     alias: 'widget.extensible.recurrence-weekly',

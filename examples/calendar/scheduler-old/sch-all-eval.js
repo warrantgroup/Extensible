@@ -1,3 +1,9 @@
+/*!
+ * Extensible 1.6.0-b1
+ * Copyright(c) 2010-2012 Extensible, LLC
+ * licensing@ext.ensible.com
+ * http://ext.ensible.com
+ */
 /*
  * Ext Scheduler v1.8 BETA
  * Copyright(c) 2009-2010 Mats Bryntse Consulting

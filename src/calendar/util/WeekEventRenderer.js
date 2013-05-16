@@ -1,3 +1,9 @@
+/*!
+ * Extensible 1.6.0-b1
+ * Copyright(c) 2010-2012 Extensible, LLC
+ * licensing@ext.ensible.com
+ * http://ext.ensible.com
+ */
 /* @private
  * This is an internal helper class for the calendar views and should not be overridden.
  * It is responsible for the base event rendering logic underlying all views based on a
